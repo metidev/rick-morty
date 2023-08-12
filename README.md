@@ -1,4 +1,4 @@
-# Rick and Morty Character Profile Project
+# Rick and Morty Character information
 
 ![Rick and Morty Logo](https://free4kwallpapers.com/uploads/originals/2021/10/10/-breaking-bad-rick-and-morty-wallpaper.jpg)
 
