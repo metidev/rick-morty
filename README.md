@@ -6,27 +6,22 @@ Welcome to the Rick and Morty Character Profile project! This repository contain
 
 ## Project Overview
 
-The main objective of this project is to create an intuitive and user-friendly website that allows users to explore characters from the Rick and Morty universe. The website is designed to be responsive, adapting seamlessly to various devices, including mobile phones, tablets, and PCs. It utilizes HTML, Sass, and React JS technologies.
+The main objective of this project is to create an intuitive and user-friendly website that allows users to explore characters from the Rick and Morty universe. The website is designed to be responsive, adapting seamlessly to various devices, including mobile phones, tablets, and PCs. It utilizes HTML, CSS, PHP, and JS technologies.
 
 ## Features
 
-- List of Characters: The website displays a list of Rick and Morty characters in alphabetical order. Information about each character includes a photo, name, and species.
+- List of Characters: The website displays a list of Rick and Morty characters.
 - Filtering: Users can filter characters using different types of filters:
   - Name: Search for characters regardless of capitalization. Invalid searches show an error message.
   - Species: Choose between Human 👨🏻 and Alien 👽.
   - Status: Select characters based on their status (e.g., Alive 💀, Dead ❤️).
-- Reset Button: The website provides a reset button to clear all filters.
-- Local Storage: Filtered information is stored in local storage, allowing users to revisit their previous searches without losing information.
 - Character Details: Clicking on a character's image reveals a complete character profile.
-- Shareable URLs: Character detail URLs are shareable. Users can directly access character profiles using these URLs.
 
 ## Technologies Used
 
 - HTML 5
 - CSS and Sass (including variables, mixins, and functions)
-- Flexbox and CSS Grid for responsive layouts
 - JavaScript library: React JS
-- Local storage for data persistence
 - API requests for character information
 
 ## Project Setup
