@@ -1,6 +1,6 @@
 # Rick and Morty Character Profile Project
 
-![Rick and Morty Logo](https://link-to-your-logo-image.png)
+![Rick and Morty Logo](https://free4kwallpapers.com/uploads/originals/2021/10/10/-breaking-bad-rick-and-morty-wallpaper.jpg)
 
 Welcome to the Rick and Morty Character Profile project! This repository contains the code for a responsive website that provides a list of characters from the popular animated series "Rick and Morty." You can filter characters by name, species, and character status. The project was developed as a part of Module 3 in Adalab's Web Development Bootcamp.
 
