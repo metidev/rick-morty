@@ -20,19 +20,22 @@ The main objective of this project is to create an intuitive and user-friendly w
 ## Technologies Used
 
 - HTML 5
-- CSS and Sass (including variables, mixins, and functions)
-- JavaScript library: React JS
-- API requests for character information
+- CSS 3
+- JavaScript library
+- API requests for character information with PHP
 
 ## Project Setup
 
 To run this project locally, follow these steps:
 
-1. Clone this repository.
-2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install project dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and access the project at `http://localhost:3000`.
+To set up the chat application project locally, follow these steps:
+
+1. Clone the repository to your local machine using the following command:  
+```
+git clone https://github.com/metidev/chatapp.git
+```
+2. Ensure you have PHP and a web server (e.g., Apache, Nginx) installed on your machine.
+3. Start your local web server and navigate to the project directory.
 
 ## Credits
 
