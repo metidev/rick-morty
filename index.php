@@ -112,6 +112,7 @@ $episode = $episodeSplit[5];
         h1, h2 {
             margin: 0;
             font-size: 38px;
+            width: 340px;
             letter-spacing: -.25px;
             transform: translateX(-44px);
             font-family: 'Sarala', serif;
@@ -231,7 +232,7 @@ $episode = $episodeSplit[5];
 <div class="wrapper">
     <div class="card">
         <div class="front">
-            <h1><?= substr($name, 0, 12) . '...' ?></h1>
+            <h1><?= strlen($name) > 18 ? substr($name, 0, 18) . '...' : $name ?></h1>
             <p>created <span><?= substr($created, 0, 10) ?></span></p>
             <p class="price"><?= $species ?></p>
         </div>
