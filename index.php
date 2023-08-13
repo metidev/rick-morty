@@ -208,7 +208,7 @@ $episode = $episodeSplit[5];
             position: absolute;
             bottom: 34px;
             left: 21px;
-            font-size: 34px;
+            font-size: 20px;
             opacity: .34;
         }
 
