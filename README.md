@@ -41,6 +41,4 @@ git clone https://github.com/metidev/rick-morty.git
 
 This project was created as part of Adalab's Web Development Bootcamp by [Your Name]. Special thanks to the [Rick and Morty API](https://rickandmortyapi.com/) for providing character data.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
